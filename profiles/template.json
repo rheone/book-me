@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "sources": [],
+  "typed_favorites": [],
+  "libraries": [
+    { "name": "", "key": "", "us": true, "verified_on": "" }
+  ],
+  "goodreads": { "user_id": "", "profile_url": "", "verified_on": "" },
+  "formats": ["audiobook"],
+  "genres_want": [],
+  "genres_avoid": [],
+  "authors_never": [],
+  "authors_skip_unless_asked": [],
+  "narrators_like": [],
+  "max_hours": null,
+  "picks_per_run": 10,
+  "wait_tolerance": "short",
+  "approval_style": "batch",
+  "libby_tag": "",
+  "libby_main_device": "",
+  "libby_backup_confirmed_on": "",
+  "goodreads_shelves": {
+    "at_library": "recommendations-based-on-prior-reads",
+    "not_at_library": "recommendations-not-at-my-library"
+  },
+  "goodreads_automation": "csv",
+  "taste": "",
+  "storage": "files",
+  "last_run": ""
+}

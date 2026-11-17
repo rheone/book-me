@@ -1,0 +1,7 @@
+# Per-reader data: profiles, trackers, history
+profiles/*/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
